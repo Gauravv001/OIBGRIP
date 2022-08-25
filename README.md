@@ -1,4 +1,4 @@
-#This repository is created for OASIS INTERNSHIP TASKS
+This repository is created for OASIS INTERNSHIP TASKS
 
 1) [Task 1 - Calculator](https://gauravv001.github.io/OIBGRIP/LEVEL2-Task1-Calculator/)
 
